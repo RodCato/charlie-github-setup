@@ -17,3 +17,5 @@
 
 - last test to understand git commit flow
 - one more try to commit from terminal
+
+##Future changes: Add git flow notes.
